@@ -1,0 +1,16 @@
+*.exe
+*.o
+*.py
+
+*.lvl
+*.data
+*.txt
+*.png
+*.wav
+
+.vscode/
+backupData/
+data/
+levels/
+source/objects/
+tools/
